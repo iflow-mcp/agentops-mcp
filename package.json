@@ -1,5 +1,5 @@
 {
-  "name": "agentops-mcp",
+  "name": "@iflow-mcp/agentops-mcp",
   "version": "0.3.5",
   "description": "MCP index access to the AgentOps Public API.",
   "main": "dist/index.js",
